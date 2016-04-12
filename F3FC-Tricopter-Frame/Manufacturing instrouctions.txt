@@ -1,0 +1,6 @@
+Material - FR4 (black color)
+Board thickness - 1.5mm
+Solder Mask Color - Black mask both top and bottom sides
+Silkscreen color - White
+Copper thickness - 2 OZ copper (8 mil)
+Pad Finish: GOLD (immersion is fine)
